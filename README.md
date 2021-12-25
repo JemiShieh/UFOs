@@ -30,7 +30,7 @@ This table is fully dynamic and reactive to user input, with several fully funct
 ## UFOs Analysis Summary
 Drawbacks of this webpage design:
 * Because JavaScript is case-sensitive, and all of the data is stored in lowercase, any user input entered in uppercase letters, such as the city or state abbreviation, would not return any filter search results. 
-* Lack of user input drop-down menu
+* Lack of user input drop-down menus
 * Inability to filter search by multiple values with the same ID, e.g. multiples cities or states
 * Inability to sort filter search results
 * Data set is limited to 13 dates
